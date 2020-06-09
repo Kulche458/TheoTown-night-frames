@@ -1,0 +1,84 @@
+[
+{
+"id":"potatas4coms15",
+"type":"animation",
+"frames":[{"bmp":"smth4coms1.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"potatas4coms00",
+"type":"animation",
+"frames":[{"bmp":"smth4coms2.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"potatas4comsNO_U"
+"type":"animation",
+"frames":[{"bmp":"smth4coms3.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"potatas4comsNO_U2"
+"type":"animation",
+"frames":[{"bmp":"smth4coms4.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"potatas4comsFUD"
+"type":"animation",
+"frames":[{"bmp":"smth4coms5.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"1x4lsmth",
+"type":"animation",
+"frames":[{"bmp":"1x4potata.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"1x4lsmth_weird",
+"type":"animation",
+"frames":[{"bmp":"1x4potata_flippd.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"4x3lsmth",
+"type":"animation",
+"frames":[{"bmp":"4x3potata.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"4x3lsmth_weird",
+"type":"animation",
+"frames":[{"bmp":"4x3potata_flippd.png"}]
+"light":true,
+"light switching":true
+}
+]
+
+
+$com15 - "animation":[{"id":"1x2l", "x":25, "y":-4}, {"id":"potatas4coms15", "x":12, "y":-36}]
+$com18 - "animation":[{"id":"1x2l", "x":3, "y":-24}, {"id":"1x2l", "x":17, "y":-14}]
+$com01 - "animation":[{"id":"1x2l", "x":11, "y":-1}, {"id":"1x2l", "x":5, "y":-11}]
+$comburgerking00 - //burgurkong, no such windows in stock rip
+$com13 - "animation":[{"id":"1x2l", "x":14, "y":-13}, {"id":"1x2l", "x":23, "y":-4}]
+$com16 - "animation":[{"id":"1x2l", "x":21, "y":-2}]
+$com00 - "animation":[{"id":"1x1l", "x":15, "y":-8}, {"id":"potatas4coms00", "x":33, "y":-14}]
+$com71 - "animation":[{"id":"1x4lsmth", "x":19, "y":-15}, {"id":"1x4lsmth", "x":27, "y":1}, {"id":"1x4lsmth_weird", "x":40, "y":-8}, {"id":"1x4lsmth_weird", "x":52, "y":-20}]
+$gencom01variant0/2/4/6 - //these have 2/4/6/8 stories ingame. i have a png with only a 3-floor variant. excuse me wat da fork
+fishinghut smth //no baseplate = no night
+$com05 - "animation":[{"id":"2x3", "x":13, "y":-21}, {"id":"2x3", "x":23, "y":-6}, {"id":"2x3", "x":35, "y":-12}, {"id":"2x3", "x":55, "y":-16}]
+$com66 //yass
+$fastfood - "animation":[{"id":"2x3butnotandflipped", "x":56, "y":-6}, {"id":"potatas4comsFUD", "x":60, "y":-26}]
+$motel - "animation":[{"id":"1x2", "x":30, "y":3}, {"id":"1x2", "x":42, "y":9}]
+$com02 - "animation":[{"id":"1x3", "x":54, "y":-7}, {"id":"1x3", "x":74, "y":-3}]
+$supermarket00 - "animation":[{"id":"1x2", "x":107, "y":10}]
+$com56 //big windos = no windos

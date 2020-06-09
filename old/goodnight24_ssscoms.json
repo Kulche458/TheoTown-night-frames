@@ -1,0 +1,47 @@
+[
+{
+		"id":"outacoolnames",
+		"type":"animation",
+		"frames":[{"bmp":"running_out_of_names.png"}]
+		"light":true,
+		"light switching":true
+	},
+{
+		"id":"enslavedstupid",
+		"type":"animation",
+		"frames":[{"bmp":"enslavedstupid.png"}]
+		"light":true,
+		"light switching":true
+	},
+{
+		"id":"smth4coms6",
+		"type":"animation",
+		"frames":[{"bmp":"smth4coms6.png"}]
+		"light":true,
+		"light switching":true
+	},
+{
+		"id":"4x2",
+		"type":"animation",
+		"frames":[{"bmp":"4x2.png"}]
+		"light":true,
+		"light switching":true
+	}
+]
+
+$comlittleoffice00 //does it have any windows?
+$com32 - "animation":[{"id":"1x4l", "x":1, "y":-31}, {"id":"1x4l", "x":5, "y":-22}, {"id":"1x4l", "x":5, "y":-15}, {"id":"1x4l", "x":9, "y":-3},
+{"id":"1x4l", "x":9, "y":-38}, {"id":"1x4l", "x":16, "y":-20}, {"id":"1x4l", "x":20, "y":-15}, {"id":"1x4l", "x":20, "y":-40}, {"id":"1x4l", "x":24, "y":-7},
+{"id":"1x4l", "x":24, "y":-31}, {"id":"1x4l", "x":28, "y":-19}]
+$com35 - "animation":[{"id":"3x3_rtl", "x":2, "y":-26}, {"id":"3x3_rtl", "x":2, "y":-42}, {"id":"outacoolnames", "x":11, "y":-17}, {"id":"outacoolnames", "x":11, "y":-33},
+{"id":"outacoolnames", "x":11, "y":-41}]
+$com33 - "animation":[{"id":"3x2l_WEIRD", "x":1, "y":-26}, {"id":"3x2l_WEIRD", "x":5, "y":-34}, {"id":"enslavedstupid", "x":12, "y":-25},
+{"id":"2x2_ltr", "x":19, "y":-18}, {"id":"2x2_ltr", "x":27, "y":-36}]
+$com34 - "animation":[{"id":"1x4l", "x":1, "y":-23}, {"id":"1x4l", "x":3, "y":-36}, {"id":"1x4l", "x":9, "y":-26},
+{"id":"1x4l", "x":16, "y":-32}, {"id":"1x4l", "x":18, "y":-19}, {"id":"1x4l", "x":25, "y":-29}]
+$compool00 - "animation":[{"id":"smth4coms6", "x":14, "y":-3}],
+$comhotel00 - "animation":[{"id":"4x2", "x":9, "y":-27}, {"id":"4x2", "x":9, "y":-32}, {"id":"4x2", "x":9, "y":-47},
+{"id":"4x2", "x":9, "y":-57}, {"id":"4x2", "x":15, "y":-24}, {"id":"4x2", "x":15, "y":-40}, {"id":"4x2", "x":15, "y":-50}, 
+{"id":"4x2", "x":23, "y":-39}, {"id":"4x2", "x":23, "y":-59}, {"id":"4x2", "x":23, "y":-64}, {"id":"4x2", "x":32, "y":-34}, 
+{"id":"4x2", "x":32, "y":-49}, {"id":"4x2", "x":32, "y":-64}, {"id":"4x2", "x":38, "y":-36}, {"id":"4x2", "x":38, "y":-56}, 
+{"id":"4x2", "x":44, "y":-28}, {"id":"4x2", "x":44, "y":-48}, {"id":"4x2", "x":44, "y":-53}]

@@ -1,0 +1,33 @@
+[
+{
+"id":"stair_ltr3",
+"type":"animation",
+"frames":[{"bmp":"fatstair_ltr2.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"stair_rtl3",
+"type":"animation",
+"frames":[{"bmp":"fatstair_rtl2.png"}]
+"light":true,
+"light switching":true
+}
+]
+
+
+\/\/\/\/\/\/\/
+
+$res11 (Variant 1)- "animation":[{"id":"1x2l", "x":6, "y":-9, "frame":0}, {"id":"1x1l", "x":21, "y":1, "frame":0}, {"id":"1x2l", "x":26, "y":-13, "frame":0}, {"id":"1x1l", "x":14, "y":-20, "frame":0},
+$res11 (Variant 2) - {"id":"1x2l", "x":9, "y":-2, "frame":1}, {"id":"1x2l", "x":5, "y":-9, "frame":1}, {"id":"1x2l", "x":13, "y":-5, "frame":1}, {"id":"1x2l", "x":5, "y":-16, "frame":1}, {"id":"1x1l", "x":9, "y":-20, "frame":1},
+$res11 (Variant 3) - {"id":"1x2l", "x":15, "y":-9, "frame":2}, {"id":"1x2l", "x":23, "y":-13, "frame":2},
+$res11 (Variant 4) - {"id":"1x2l", "x":7, "y":-14, "frame":3}, {"id":"1x2l", "x":14, "y":-1, "frame":3}, {"id":"1x2l", "x":22, "y":-16, "frame":3}]
+$res12 - "animation":[{"id":"stair_rtl3", "x":6, "y":-3}, {"id":"stair_rtl3", "x":12, "y":-5}, {"id":"stair_rtl3", "x":16, "y":-2}, {"id":"stair_ltr3", "x":38, "y":-12}]
+$res18 (Variant 1) - "animation":[{"id":"1x2l", "x":7, "y":-3, "frame":0}, {"id":"1x2l", "x":13, "y":-4, "frame":0}, {"id":"1x2l", "x":8, "y":-13, "frame":0}, {"id":"1x2l", "x":18, "y":0, "frame":0}, {"id":"1x2l", "x":18, "y":-4, "frame":0},
+$res18 (Variant 2) - {"id":"1x2l", "x":13, "y":0, "frame":1}, {"id":"1x2l", "x":13, "y":-4, "frame":1}, {"id":"1x2l", "x":16, "y":-4, "frame":1}, {"id":"1x2l", "x":22, "y":-3, "frame":1}, {"id":"1x2l", "x":21, "y":-13, "frame":1},
+$res18 (Variant 3) - {"id":"1x2l", "x":7, "y":-3, "frame":2}, {"id":"1x2l", "x":13, "y":-4, "frame":2}, {"id":"1x2l", "x":18, "y":0, "frame":2}, {"id":"1x2l", "x":18, "y":-4, "frame":2}, {"id":"1x2l", "x":7, "y":-11, "frame":2}, {"id":"1x2l", "x":12, "y":-15, "frame":2}, {"id":"1x2l", "x":21, "y":-10, "frame":2},
+$res18 (Variant 4) - {"id":"1x2l", "x":13, "y":0, "frame":3}, {"id":"1x2l", "x":13, "y":-4, "frame":3}, {"id":"1x2l", "x":16, "y":-4, "frame":3}, {"id":"1x2l", "x":22, "y":-3, "frame":3}, {"id":"1x2l", "x":8, "y":-10, "frame":3}, {"id":"1x2l", "x":22, "y":-11, "frame":3}]
+$res48 (Variant 1) - "animation":[{"id":"1x2l", "x":11, "y":-2, "frame":0}] //No second variant, it doesn't have a window (living as T class :/)
+
+//All these colorful suburban houses:
+"animation":[{"id":"1x2l", "x":11, "y":-2, "frame":0}, {"id":"1x2l", "x":21, "y":-5, "frame":0}, {"id":"1x2l", "x":8, "y":-5, "frame":1}, {"id":"1x2l", "x":18, "y":-2, "frame":1}]

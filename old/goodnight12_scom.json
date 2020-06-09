@@ -1,0 +1,49 @@
+[
+{
+"id":"potatas4coms08",
+"type":"animation",
+"frames":[{"bmp":"smth4coms.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"1x4l",
+"type":"animation",
+"frames":[{"bmp":"1x4hehe.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"2x3butnot",
+"type":"animation",
+"frames":[{"bmp":"2x3totalweirdo.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"2x3butnotandflipped",
+"type":"animation",
+"frames":[{"bmp":"2x3totalweirdoandevenflipped.png"}]
+"light":true,
+"light switching":true
+}
+]
+
+
+$secondhand00 - "animation":[{"id":"1x1l", "x":5, "y":-6}]
+$tavern00 - "animation":[{"id":"1x3l", "x":11, "y":-2}]
+$com14 - "animation":[{"id":"2x2l", "x":18, "y":-1}, {"id":"2x2l", "x":20, "y":-2}]
+$res74 - "animation":[{"id":"1x2l", "x":6, "y":-18}, {"id":"1x2l", "x":16, "y":-6}, {"id":"1x2l", "x":25, "y":-16}, {"id":"1x2l", "x":25, "y":-6}]
+$prm_com08 - "animation":[{"id":"potatas4coms08", "x":-2, "y":-17}] //will it work?
+$com09/48 - "animation":[{"id":"1x2l", "x":11, "y":-1}] //why are these two different buildings?
+$compizza00 - //no + u call dis a pozza?
+$icecream00 - "animation":[{"id":"2x2_ltr", "x":19, "y":-3}]
+$com12 - "animation":[{"id":"1x2l", "x":6, "y":-3}]
+$res39 - "animation":[{"id":"1x4l", "x":12, "y":-4}]
+$prm_com07 - "animation":[{"id":"1x2l", "x":23, "y":-17}]
+$prm_com10 - "animation":[{"id":"1x4l", "x":21, "y":-6}]
+$com10 - "animation":[{"id":"1x2l", "x":24, "y":-3}]
+$com25 - "animation":[{"id":"2x3butnotandflipped", "x":19, "y":-14}]
+$com40 - "animation":[{"id":"1x2l", "x":9, "y":-3}]
+$prm_com09 - "animation":[{"id":"1x3l", "x":19, "y":-15}]
+$com08 - "animation":[{"id":"1x2l", "x":8, "y":-9}, {"id":"1x2l", "x":21, "y":-4}]

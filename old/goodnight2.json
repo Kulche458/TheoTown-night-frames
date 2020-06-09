@@ -1,0 +1,38 @@
+//dont say a damn thing about the names
+
+[
+{
+"id":"1x3l",
+"type":"animation",
+"frames":[{"bmp":"1x3.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"2x2_rtl",
+"type":"animation",
+"frames":[{"bmp":"2x2weirdo.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"2x2_ltr",
+"type":"animation",
+"frames":[{"bmp":"2x2weirdo_side.png"}]
+"light":true,
+"light switching":true
+}
+]
+
+\/\/\/\/\/\/\/\/\/\/
+
+$res90 - "animation":[{"id":"1x2l", "x":10, "y":0}, {"id":"1x2l", "x":19, "y":0}, {"id":"1x2l", "x":22, "y":-7}]
+$res93 - "animation":[{"id":"1x2l", "x":5, "y":-3}, {"id":"1x2l", "x":14, "y":-5}, {"id":"1x2l", "x":21, "y":-3}]
+$res117_01 - "animation":[{"id":"2x2_ltr", "x":0, "y":-4}, {"id":"2x2_rtl", "x":17, "y":1}, {"id":"2x2_rtl", "x":25, "y":-3}, {"id":"1x3", "x":7, "y":-10}, {"id":"1x3", "x":13, "y":-7}, {"id":"1x3", "x":16, "y":-7}, {"id":"1x3", "x":18, "y":-8}]
+$res117_10 - "animation":[{"id":"1x2", "x":4, "y":-5}, {"id":"1x2", "x":17, "y":-3}, {"id":"1x2", "x":21, "y":-3}]
+$res125 - "animation":[{"id":"1x2l", "x":12, "y":-7}, {"id":"1x2l", "x":16, "y":-9}, {"id":"1x2l", "x":25, "y":-3}]
+$res128 - "animation":[{"id":"1x2l", "x":9, "y":-4}, {"id":"1x2l", "x":19, "y":-3}]
+$res131 - "animation":[{"id":"1x2", "x":6, "y":-3}, {"id":"1x2", "x":17, "y":-4}]
+$res155 - "animation": //Out of frames :/
+$res43 - "animation":[{"id":"1x2", "x":4, "y":-4}, {"id":"1x2", "x":13, "y":-3}]
+$res49 - "animation":[{"id":"1x2", "x":6, "y":-3}]

@@ -1,0 +1,12 @@
+$ind34 - "animation":[{"id":"1x2l", "x":25, "y":-2}] //was that juicy red poxel intentional?
+$ind25 - "animation":[{"id":"1x4l", "x":23, "y":-4}]
+%ind02 - "animation":[{"id":"1x1l", "x":46, "y":-4}]
+%ind03 - "animation":[{"id":"1x2l", "x":54, "y":0}, {"id":"1x2l", "x":58, "y":-9}]
+$ind44 - "animation":[{"id":"cutelamp", "x":54, "y":-4}]
+%ind04 - "animation":[{"id":"1x2l", "x":12, "y":-1}, {"id":"1x3l", "x":44, "y":-22}, {"id":"1x1l", "x":44, "y":-18}, {"id":"1x1l", "x":24, "y":-32}]
+$ind15 - "animation":[{"id":"1x2l", "x":26, "y":0}, {"id":"1x2l", "x":28, "y":1}, {"id":"1x2l", "x":26, "y":-3}, {"id":"1x2l", "x":28, "y":-2}, {"id":"1x1l", "x":26, "y":-5}, {"id":"1x1l", "x":28, "y":-4}]
+%ind05 - "animation":[{"id":"1x3l", "x":27, "y":4}]
+$ind45 - "animation":[{"id":"1x2l", "x":44, "y":-20}]
+$ind55 //no?
+%ind07 //neither here
+%ind06 - "animation":[{"id":"1x3l", "x":69, "y":-18}]

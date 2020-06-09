@@ -1,0 +1,57 @@
+[
+{
+"id":"3x3_rtl",
+"type":"animation",
+"frames":[{"bmp":"3x3weirdo.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"3x3_ltr",
+"type":"animation",
+"frames":[{"bmp":"3x3weirdo_side.png"}]
+"light":true,
+"light switching":true
+},
+{
+"id":"4x2_side",
+"type":"animation",
+"frames":[{"bmp":"4x2_side.png"}]
+"light":true,
+"light switching":true
+}
+]
+
+
+agentcar - //no
+blufl - "animation":[{"id":"1x1l", "x":5, "y":-7}, {"id":"1x3l", "x":9, "y":-15}, {"id":"1x2l", "x":13, "y":-6}, {"id":"1x2l", "x":22, "y":-7}]
+clockstore - "animation":[{"id":"1x2l", "x":22, "y":-9}]
+dark_energy_power_plant - "animation":[{"id":"1x1l", "x":70, "y":-4}, {"id":"1x1l", "x":98, "y":-6}]
+drill - //windows in a drill?
+dsa_drill_trs - //same here
+dsaborderpost - "animation":[{"id":"1x1l", "x":10, "y":-1}]
+dsacommand - "animation":[{"id":"1x2l", "x":18, "y":-25}, {"id":"1x2l", "x":21, "y":-18}, {"id":"1x2l", "x":36, "y":-4}, {"id":"1x2l", "x":44, "y":2}, {"id":"1x2l", "x":48, "y":-5}, {"id":"1x2l", "x":56, "y":-14}, {"id":"1x2l", "x":60, "y":-6}, {"id":"1x2l", "x":71, "y":-5}, {"id":"1x2l", "x":75, "y":-8}, {"id":"1x2l", "x":84, "y":-4}, {"id":"1x2l", "x":88, "y":-6}]
+dsacont - //no i wont add any huge windows
+dsacontcar - //oof a car
+dsahq - "animation":[{"id":"3x3_rtl", "x":39, "y":-4}, {"id":"3x3_rtl", "x":43, "y":-17}, {"id":"3x3_rtl", "x":47, "y":-5}, {"id":"3x3_rtl", "x":55, "y":-16}, {"id":"3x3_rtl", "x":59, "y":1}, {"id":"3x3_ltr", "x":66, "y":-4}, {"id":"3x3_ltr", "x":70, "y":9}, {"id":"2x2", "x":23, "y":-13}, {"id":"2x2", "x":23, "y":-37}, {"id":"2x2", "x":23, "y":-49}, {"id":"4x2_side", "x":82, "y":-12}, {"id":"4x2_side", "x":88, "y":-25}, {"id":"4x2_side", "x":82, "y":-42}]
+dsareser - //no they wont research at night
+dsarocket - "animation":[{"id":"1x2", "x":15, "y":-10}]
+dsatelco - //no again
+food_maker - "animation":[{"id":"1x2", "x":42, "y":-1}, {"id":"1x2", "x":50, "y":-5}, {"id":"1x2", "x":52, "y":-5}]
+golddsadrill - //nope
+miblimo - //y a car again
+molecular_water_plant - "animation":[{"id":"2x2", "x":45, "y":-19}, {"id":"2x2", "x":53, "y":-20}, {"id":"2x2", "x":49, "y":-27}, {"id":"2x2", "x":47, "y":-33}, {"id":"2x2", "x":55, "y":-29}] //this building has no shadowz
+moondome - //THEY DONT NEED ANY FKIN LIGHT
+moonfstorage - //i dont see any window here
+moonhouse1 - //no
+moonhouse2 - "animation":[{"id":"1x3", "x":10, "y":-4}]
+moonhouse3 - "animation":[{"id":"2x2", "x":13, "y":-2}]
+moonhouse4 - "animation":[{"id":"1x3", "x":17, "y":-4}]
+moonhouse5 - "animation":[{"id":"1x2", "x":8, "y":-6}, {"id":"1x2", "x":12, "y":-9}]
+moonhouse6 - //NO
+moonrecyclingcenter - "animation":[{"id":"1x2", "x":4, "y":-9}]
+moonsolar - //...
+rustydsadrill - //i guessn't
+space_command - "animation":[{"id":"stair_ltr2inverted", "x":31, "y":-2}, {"id":"stair_ltr2inverted", "x":47, "y":6}, {"id":"stair_ltr2inverted", "x":59, "y":12}, {"id":"stair_rtl2inverted", "x":71, "y":8}]
+spaceport - "animation":[{"id":"1x2", "x":22, "y":-15}, {"id":"1x2", "x":34, "y":-21}]
+waterextractor - //no windows

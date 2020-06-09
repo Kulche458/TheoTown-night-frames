@@ -1,0 +1,48 @@
+[
+{
+"id":"somewhatweird",
+"type":"animation",
+"frames":[{"bmp":"somewhatweird.png"}]
+"light":true,
+"light switching":true
+}
+]
+
+
+
+$ind58 - "animation":[{"id":"1x2l", "x":4, "y":-3}]
+$prm_ind05 //tanq lol
+$ind50 - "animation":[{"id":"1x2l", "x":13, "y":-14}]
+$prm_ind04 - "animation":[{"id":"1x2l", "x":8, "y":-4}]
+$place00 - //placek
+$prm_ind03 - //no windossos
+$prm_ind02 - [{"id":"1x2l", "x":6, "y":-8}, {"id":"1x2l", "x":6, "y":-21}]
+$prm_ind01 - //pls
+%ind09 - //eh
+$ind56 - //...big
+$ind57 - "animation":[{"id":"1x2l", "x":23, "y":-9}, {"id":"1x2l", "x":23, "y":-6}, {"id":"1x2l", "x":25, "y":-8}, {"id":"1x2l", "x":25, "y":-5}]
+$ind46 - //ah yes
+$ind27 - "animation":[{"id":"somewhatweird", "x":42, "y":-3}]
+$locksmith - //AAAHH
+$ind21 - "animation":[{"id":"1x2l", "x":18, "y":2}]
+$ind35 - "animation":[{"id":"1x4l", "x":12, "y":-18}, {"id":"1x4l", "x":24, "y":1}]
+$ind39 - "animation":[{"id":"1x3l", "x":11, "y":-4}, {"id":"1x2l", "x":27, "y":-9}]
+%ind10 //lol no
+$ind30 - "animation":[{"id":"1x2l", "x":17, "y":-26}, {"id":"1x2l", "x":29, "y":-6}, {"id":"1x2l", "x":38, "y":-35}, {"id":"1x2l", "x":46, "y":-33}, {"id":"1x2l", "x":48, "y":-4}, {"id":"1x2l", "x":56, "y":-20}]
+$ind20 - "animation":[{"id":"1x1l", "x":26, "y":-14}, {"id":"1x1l", "x":54, "y":0}]
+$ind28 - "animation":[{"id":"1x2l", "x":33, "y":-5}, {"id":"1x2l", "x":62, "y":-13}, {"id":"1x2l", "x":69, "y":-16}]
+$ind59- //hippity hoppity no
+$ind60 - "animation":[{"id":"1x2l", "x":12, "y":-9}, {"id":"1x2l", "x":22, "y":1}, {"id":"1x2l", "x":38, "y":9}, {"id":"1x2l", "x":39, "y":-33}, {"id":"1x2l", "x":56, "y":1}, {"id":"1x2l", "x":68, "y":-15}, {"id":"1x2l", "x":76, "y":-4}]
+$ind40 - "animation":[{"id":"1x3l", "x":59, "y":-10}]
+%ind11 - //thiss bldg needs a rework
+%ind12 - "animation":[{"id":"1x3l", "x":46, "y":9}, {"id":"1x2l", "x":62, "y":-5}, {"id":"1x2l", "x":82, "y":-15}]
+$chemicalstorage00 - "animation":[{"id":"2x3butnot", "x":51, "y":-33}, {"id":"2x3butnotandflipped", "x":62, "y":-20}]
+$ind47 - "animation":[{"id":"1x2l", "x":66, "y":-7}]
+$ind29 - //NO
+$ind43 - "animation":[{"id":"1x4l", "x":59, "y":-8}, {"id":"1x4l", "x":71, "y":-14}]
+$colamine00 - "animation":[{"id":"1x1l", "x":38, "y":10}, {"id":"1x1l", "x":38, "y":12}, {"id":"1x1l", "x":40, "y":11}, {"id":"1x1l", "x":40, "y":13}]
+$ind52 - "animation":[{"id":"2x2l", "x":93, "y":20}, {"id":"2x2l", "x":117, "y":8}]
+%ind13 - "animation":[{"id":"1x2l", "x":123, "y":11}]
+$ind53 - "animation":[{"id":"1x2l", "x":14, "y":-7}, {"id":"1x1l", "x":22, "y":-3}, {"id":"1x2l", "x":43, "y":-17}]
+%ind14 - //e
+//YEET I DIDIT ALLL!! woooohooo
