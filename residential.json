@@ -1,0 +1,412 @@
+[
+  {
+    "id":"$res00",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 19, "y": -4, "frame": 0},
+      {"id": "$light_1x2_00", "x": 21, "y": -5, "frame": 0},
+      {"id": "$light_1x2_00", "x": 15, "y": -2, "frame": 0},
+      {"id": "$light_1x2_00", "x": 20, "y": -8, "frame": 1}
+    ]
+  },
+  {
+    "id":"$res01",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_unique_00_03", "x": 20, "y": -3, "frame": 0},
+      {"id": "$light_unique_00_03", "x": 24, "y": -5, "frame": 0},
+      {"id": "$light_unique_00_02", "x": 15, "y": -2, "frame": 0},
+      {"id": "$light_2x2_01", "x": 12, "y": -4, "frame": 0},
+      {"id": "$light_unique_00_03", "x": 24, "y": -5, "frame": 1},
+      {"id": "$light_unique_00_02", "x": 9, "y": -5, "frame": 1},
+      {"id": "$light_unique_00_02", "x": 15, "y": -2, "frame": 1},
+      {"id": "$light_unique_00_03", "x": 20, "y": -3, "frame": 2},
+      {"id": "$light_unique_00_03", "x": 24, "y": -5, "frame": 2},
+      {"id": "$light_unique_00_02", "x": 15, "y": -2, "frame": 2},
+      {"id": "$light_2x2_01", "x": 12, "y": -4, "frame": 2},
+      {"id": "$light_unique_00_03", "x": 20, "y": -3, "frame": 3},
+      {"id": "$light_unique_00_03", "x": 24, "y": -5, "frame": 3},
+      {"id": "$light_unique_00_02", "x": 15, "y": -2, "frame": 3},
+      {"id": "$light_2x2_01", "x": 12, "y": -4, "frame": 3},
+      {"id": "$light_unique_00_03", "x": 20, "y": -3, "frame": 4},
+      {"id": "$light_unique_00_03", "x": 24, "y": -5, "frame": 4},
+      {"id": "$light_unique_00_02", "x": 15, "y": -2, "frame": 4},
+      {"id": "$light_2x2_01", "x": 12, "y": -4, "frame": 4}
+    ]
+  },
+  {
+    "id":"$res02",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 19, "y": -2, "frame": 0},
+      {"id": "$light_1x2_00", "x": 13, "y": 1, "frame": 0},
+      {"id": "$light_2x2_02", "x": 4, "y": -4, "frame": 0},
+      {"id": "$light_1x2_00", "x": 19, "y": -2, "frame": 1},
+      {"id": "$light_1x2_00", "x": 13, "y": 1, "frame": 1},
+      {"id": "$light_2x2_02", "x": 4, "y": -4, "frame": 1},
+      {"id": "$light_2x2_01", "x": 9, "y": -2, "frame": 2},
+      {"id": "$light_1x2_00", "x": 25, "y": -4, "frame": 2},
+      {"id": "$light_1x2_00", "x": 16, "y": 1, "frame": 2},
+      {"id": "$light_2x2_01", "x": 9, "y": -2, "frame": 3},
+      {"id": "$light_1x2_00", "x": 25, "y": -4, "frame": 3},
+      {"id": "$light_1x2_00", "x": 16, "y": 1, "frame": 3}
+    ]
+  },
+  {
+    "id":"$res03",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_2x2_00", "x": 21, "y": -10},
+      {"id": "$light_2x2_00", "x": 19, "y": -3},
+      {"id": "$light_2x2_00", "x": 23, "y": -5},
+      {"id": "$light_1x2_00", "x": 13, "y": -15},
+      {"id": "$light_1x2_00", "x": 5, "y": -1}
+    ]
+  },
+  {
+    "id":"$res04",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_2x2_02", "x": 20, "y": -9, "frame": 0},
+      {"id": "$light_2x2_02", "x": 24, "y": -11, "frame": 0},
+      {"id": "$light_2x2_02", "x": 24, "y": -5, "frame": 0},
+      {"id": "$light_2x2_02", "x": 20, "y": -3, "frame": 0},
+      {"id": "$light_2x2_01", "x": 4, "y": -11, "frame": 1},
+      {"id": "$light_2x2_01", "x": 8, "y": -9, "frame": 1},
+      {"id": "$light_2x2_01", "x": 8, "y": -3, "frame": 1},
+      {"id": "$light_2x2_01", "x": 4, "y": -5, "frame": 1}
+    ]
+  },
+  {
+    "id":"$res05",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_unique_00_03", "x": 13, "y": -2},
+      {"id": "$light_unique_00_03", "x": 17, "y": -4},
+      {"id": "$light_unique_00_00", "x": 4, "y": -4},
+      {"id": "$light_unique_00_00", "x": 9, "y": -2}
+    ]
+  },
+  {
+    "id":"$res06",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_unique_00_03", "x": 13, "y": -2},
+      {"id": "$light_unique_00_03", "x": 17, "y": -4},
+      {"id": "$light_unique_00_03", "x": 17, "y": -10},
+      {"id": "$light_unique_00_03", "x": 13, "y": -8},
+      {"id": "$light_unique_00_00", "x": 4, "y": -4},
+      {"id": "$light_unique_00_00", "x": 9, "y": -2},
+      {"id": "$light_unique_00_00", "x": 9, "y": -8},
+      {"id": "$light_unique_00_00", "x": 4, "y": -10}
+    ]
+  },
+  {
+    "id":"$res07",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 16, "y": -2},
+      {"id": "$light_1x2_00", "x": 20, "y": -4},
+      {"id": "$light_1x2_00", "x": 11, "y": -2}
+    ]
+  },
+  {
+    "id":"$res08",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_2x2_00", "x": 16, "y": -1, "frame": 0},
+      {"id": "$light_2x2_00", "x": 22, "y": -4, "frame": 0},
+      {"id": "$light_unique_00_00", "x": 8, "y": -8, "frame": 0},
+      {"id": "$light_unique_00_00", "x": 6, "y": -4, "frame": 0},
+      {"id": "$light_unique_00_00", "x": 10, "y": -2, "frame": 0},
+      {"id": "$light_2x2_00", "x": 16, "y": -1, "frame": 1},
+      {"id": "$light_2x2_00", "x": 22, "y": -4, "frame": 1},
+      {"id": "$light_unique_00_00", "x": 8, "y": -8, "frame": 1},
+      {"id": "$light_unique_00_00", "x": 6, "y": -4, "frame": 1},
+      {"id": "$light_unique_00_00", "x": 10, "y": -2, "frame": 1},
+      {"id": "$light_2x2_00", "x": 6, "y": -4, "frame": 2},
+      {"id": "$light_2x2_00", "x": 12, "y": -1, "frame": 2},
+      {"id": "$light_unique_00_03", "x": 20, "y": -8, "frame": 2},
+      {"id": "$light_unique_00_03", "x": 18, "y": -1, "frame": 2},
+      {"id": "$light_unique_00_03", "x": 22, "y": -3, "frame": 2}
+    ]
+  },
+  {
+    "id":"$res09",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 17, "y": 0},
+      {"id": "$light_1x2_00", "x": 20, "y": -8},
+      {"id": "$light_1x2_00", "x": 12, "y": -1},
+      {"id": "$light_1x2_00", "x": 14, "y": 0},
+      {"id": "$light_1x2_00", "x": 6, "y": -4},
+      {"id": "$light_1x2_00", "x": 8, "y": -3},
+      {"id": "$light_1x2_00", "x": 21, "y": -2},
+      {"id": "$light_1x2_00", "x": 23, "y": -3},
+      {"id": "$light_1x2_00", "x": 25, "y": -4}
+    ]
+  },
+  {
+    "id":"$res10",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 17, "y": 0},
+      {"id": "$light_1x2_00", "x": 21, "y": -2},
+      {"id": "$light_1x2_00", "x": 10, "y": -2},
+      {"id": "$light_1x2_00", "x": 14, "y": 0}
+    ]
+  },
+  {
+    "id":"$res11",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x1_00", "x": 21, "y": 0, "frame": 0},
+      {"id": "$light_1x1_00", "x": 25, "y": -2, "frame": 0},
+      {"id": "$light_1x2_00", "x": 6, "y": -9, "frame": 0},
+      {"id": "$light_1x2_00", "x": 12, "y": -6, "frame": 0},
+      {"id": "$light_1x1_00", "x": 9, "y": -22, "frame": 0},
+      {"id": "$light_1x1_00", "x": 13, "y": -20, "frame": 0},
+      {"id": "$light_1x1_00", "x": 5, "y": -4, "frame": 0},
+      {"id": "$light_1x1_00", "x": 13, "y": 0, "frame": 0},
+      {"id": "$light_1x1_00", "x": 5, "y": -8, "frame": 1},
+      {"id": "$light_1x1_00", "x": 9, "y": -6, "frame": 1},
+      {"id": "$light_1x1_00", "x": 13, "y": -4, "frame": 1},
+      {"id": "$light_1x1_00", "x": 13, "y": -11, "frame": 1},
+      {"id": "$light_1x1_00", "x": 9, "y": -13, "frame": 1},
+      {"id": "$light_1x1_00", "x": 5, "y": -15, "frame": 1},
+      {"id": "$light_1x1_00", "x": 9, "y": -20, "frame": 1},
+      {"id": "$light_1x1_00", "x": 9, "y": -1, "frame": 1},
+      {"id": "$light_1x1_00", "x": 13, "y": 1, "frame": 1},
+      {"id": "$light_1x2_00", "x": 16, "y": -8, "frame": 2},
+      {"id": "$light_1x2_00", "x": 20, "y": -10, "frame": 2},
+      {"id": "$light_1x2_00", "x": 24, "y": -12, "frame": 2},
+      {"id": "$light_1x2_00", "x": 7, "y": -14, "frame": 3},
+      {"id": "$light_1x2_00", "x": 9, "y": -13, "frame": 3},
+      {"id": "$light_1x2_00", "x": 9, "y": -8, "frame": 3},
+      {"id": "$light_1x2_00", "x": 9, "y": -3, "frame": 3},
+      {"id": "$light_1x2_00", "x": 7, "y": -9, "frame": 3},
+      {"id": "$light_1x2_00", "x": 7, "y": -4, "frame": 3},
+      {"id": "$light_1x2_00", "x": 3, "y": -11, "frame": 3},
+      {"id": "$light_1x2_00", "x": 13, "y": -6, "frame": 3},
+      {"id": "$light_1x2_00", "x": 13, "y": -1, "frame": 3},
+      {"id": "$light_1x2_00", "x": 3, "y": -6, "frame": 3},
+      {"id": "$light_1x2_00", "x": 17, "y": -6, "frame": 3},
+      {"id": "$light_1x2_00", "x": 26, "y": -11, "frame": 3},
+      {"id": "$light_1x2_00", "x": 26, "y": -6, "frame": 3},
+      {"id": "$light_1x2_00", "x": 17, "y": -1, "frame": 3}
+    ]
+  },
+  {
+    "id":"$res12",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 39, "y": -16},
+      {"id": "$light_1x2_00", "x": 39, "y": -11},
+      {"id": "$light_1x2_00", "x": 35, "y": -14},
+      {"id": "$light_1x2_00", "x": 12, "y": -4},
+      {"id": "$light_1x2_00", "x": 16, "y": -2},
+      {"id": "$light_1x2_00", "x": 16, "y": 3},
+      {"id": "$light_1x2_00", "x": 12, "y": 1},
+      {"id": "$light_1x2_00", "x": 6, "y": -7},
+      {"id": "$light_1x2_00", "x": 6, "y": -2}
+    ]
+  },
+  {
+    "id":"$res13",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 44, "y": 0},
+      {"id": "$light_1x2_00", "x": 45, "y": -6},
+      {"id": "$light_1x2_00", "x": 39, "y": -3},
+      {"id": "$light_1x2_00", "x": 35, "y": -1},
+      {"id": "$light_1x2_00", "x": 35, "y": 5},
+      {"id": "$light_1x1_00", "x": 38, "y": -9},
+      {"id": "$light_1x1_00", "x": 42, "y": -11},
+      {"id": "$light_1x1_00", "x": 40, "y": -17},
+      {"id": "$light_2x2_01", "x": 15, "y": -18},
+      {"id": "$light_2x2_01", "x": 23, "y": -14},
+      {"id": "$light_1x2_00", "x": 24, "y": -4},
+      {"id": "$light_1x2_00", "x": 29, "y": -1},
+      {"id": "$light_1x2_00", "x": 29, "y": 5},
+      {"id": "$light_1x2_00", "x": 24, "y": 2},
+      {"id": "$light_1x2_00", "x": 12, "y": -10},
+      {"id": "$light_1x2_00", "x": 17, "y": -7},
+      {"id": "$light_1x2_00", "x": 17, "y": -1},
+      {"id": "$light_1x2_00", "x": 12, "y": -4}
+    ]
+  },
+  {
+    "id":"$res14",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_2x2_00", "x": 52, "y": -12},
+      {"id": "$light_2x2_02", "x": 45, "y": -9},
+      {"id": "$light_1x2_00", "x": 48, "y": -2},
+      {"id": "$light_1x2_00", "x": 50, "y": -3},
+      {"id": "$light_1x2_00", "x": 36, "y": -1},
+      {"id": "$light_2x2_00", "x": 24, "y": -14},
+      {"id": "$light_2x2_00", "x": 32, "y": -10},
+      {"id": "$light_2x2_01", "x": 33, "y": -3},
+      {"id": "$light_2x2_01", "x": 27, "y": -13},
+      {"id": "$light_2x2_01", "x": 35, "y": -9}
+    ]
+  },
+  {
+    "id":"$res15",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 7, "y": -2},
+      {"id": "$light_1x2_00", "x": 10, "y": -1}
+    ]
+  },
+  {
+    "id":"$res16",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_2x2_00", "x": 47, "y": -11},
+      {"id": "$light_2x2_00", "x": 47, "y": -5},
+      {"id": "$light_2x2_02", "x": 42, "y": -9},
+      {"id": "$light_2x2_02", "x": 50, "y": -13},
+      {"id": "$light_2x2_02", "x": 50, "y": -7},
+      {"id": "$light_2x2_02", "x": 42, "y": -3},
+      {"id": "$light_1x2_00", "x": 29, "y": -11},
+      {"id": "$light_1x2_00", "x": 35, "y": -14},
+      {"id": "$light_1x2_00", "x": 35, "y": -7},
+      {"id": "$light_1x2_00", "x": 35, "y": 0},
+      {"id": "$light_1x2_00", "x": 29, "y": -4},
+      {"id": "$light_1x2_00", "x": 29, "y": 3},
+      {"id": "$light_1x2_00", "x": 19, "y": -6},
+      {"id": "$light_1x2_00", "x": 21, "y": -5},
+      {"id": "$light_1x2_00", "x": 23, "y": -4},
+      {"id": "$light_1x2_00", "x": 23, "y": 3},
+      {"id": "$light_1x2_00", "x": 21, "y": 2},
+      {"id": "$light_1x2_00", "x": 19, "y": 1},
+      {"id": "$light_1x2_00", "x": 13, "y": -16},
+      {"id": "$light_1x2_00", "x": 15, "y": -15},
+      {"id": "$light_1x2_00", "x": 15, "y": -8},
+      {"id": "$light_1x2_00", "x": 15, "y": -1},
+      {"id": "$light_1x2_00", "x": 13, "y": -9},
+      {"id": "$light_1x2_00", "x": 13, "y": -2},
+      {"id": "$light_1x2_00", "x": 7, "y": -19},
+      {"id": "$light_1x2_00", "x": 9, "y": -18},
+      {"id": "$light_1x2_00", "x": 9, "y": -11},
+      {"id": "$light_1x2_00", "x": 9, "y": -4},
+      {"id": "$light_1x2_00", "x": 7, "y": -12},
+      {"id": "$light_1x2_00", "x": 7, "y": -5}
+    ]
+  },
+  {
+    "id":"$res17",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_2x2_02", "x": 20, "y": -8},
+      {"id": "$light_1x2_00", "x": 18, "y": -11},
+      {"id": "$light_1x2_00", "x": 20, "y": -12},
+      {"id": "$light_1x2_00", "x": 22, "y": -13},
+      {"id": "$light_1x2_00", "x": 15, "y": -6},
+      {"id": "$light_1x2_00", "x": 25, "y": -11},
+      {"id": "$light_1x2_00", "x": 25, "y": -5},
+      {"id": "$light_1x2_00", "x": 15, "y": 0}
+    ]
+  },
+  {
+    "id":"$res18",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 8, "y": -13, "frame": 0},
+      {"id": "$light_1x2_00", "x": 12, "y": -11, "frame": 0},
+      {"id": "$light_1x2_00", "x": 17, "y": -4, "frame": 0},
+      {"id": "$light_1x2_00", "x": 21, "y": -6, "frame": 0},
+      {"id": "$light_1x2_00", "x": 21, "y": -2, "frame": 0},
+      {"id": "$light_1x2_00", "x": 17, "y": 0, "frame": 0},
+      {"id": "$light_1x2_00", "x": 7, "y": -7, "frame": 0},
+      {"id": "$light_1x2_00", "x": 13, "y": -4, "frame": 0},
+      {"id": "$light_1x2_00", "x": 13, "y": 0, "frame": 0},
+      {"id": "$light_1x2_00", "x": 7, "y": -3, "frame": 0},
+      {"id": "$light_1x2_00", "x": 17, "y": -11, "frame": 1},
+      {"id": "$light_1x2_00", "x": 21, "y": -13, "frame": 1},
+      {"id": "$light_1x2_00", "x": 8, "y": -6, "frame": 1},
+      {"id": "$light_1x2_00", "x": 12, "y": -4, "frame": 1},
+      {"id": "$light_1x2_00", "x": 12, "y": 0, "frame": 1},
+      {"id": "$light_1x2_00", "x": 8, "y": -2, "frame": 1},
+      {"id": "$light_1x2_00", "x": 16, "y": -4, "frame": 1},
+      {"id": "$light_1x2_00", "x": 22, "y": -7, "frame": 1},
+      {"id": "$light_1x2_00", "x": 22, "y": -3, "frame": 1},
+      {"id": "$light_1x2_00", "x": 16, "y": 0, "frame": 1},
+      {"id": "$light_1x2_00", "x": 8, "y": -17, "frame": 2},
+      {"id": "$light_1x2_00", "x": 12, "y": -15, "frame": 2},
+      {"id": "$light_1x2_00", "x": 17, "y": -8, "frame": 2},
+      {"id": "$light_1x2_00", "x": 21, "y": -10, "frame": 2},
+      {"id": "$light_1x2_00", "x": 21, "y": -6, "frame": 2},
+      {"id": "$light_1x2_00", "x": 21, "y": -2, "frame": 2},
+      {"id": "$light_1x2_00", "x": 17, "y": -4, "frame": 2},
+      {"id": "$light_1x2_00", "x": 17, "y": 0, "frame": 2},
+      {"id": "$light_1x2_00", "x": 7, "y": -11, "frame": 2},
+      {"id": "$light_1x2_00", "x": 13, "y": -8, "frame": 2},
+      {"id": "$light_1x2_00", "x": 13, "y": -4, "frame": 2},
+      {"id": "$light_1x2_00", "x": 13, "y": 0, "frame": 2},
+      {"id": "$light_1x2_00", "x": 7, "y": -7, "frame": 2},
+      {"id": "$light_1x2_00", "x": 7, "y": -3, "frame": 2},
+      {"id": "$light_1x2_00", "x": 17, "y": -15, "frame": 3},
+      {"id": "$light_1x2_00", "x": 21, "y": -17, "frame": 3},
+      {"id": "$light_1x2_00", "x": 8, "y": -10, "frame": 3},
+      {"id": "$light_1x2_00", "x": 12, "y": -8, "frame": 3},
+      {"id": "$light_1x2_00", "x": 12, "y": -4, "frame": 3},
+      {"id": "$light_1x2_00", "x": 12, "y": 0, "frame": 3},
+      {"id": "$light_1x2_00", "x": 8, "y": -6, "frame": 3},
+      {"id": "$light_1x2_00", "x": 8, "y": -2, "frame": 3},
+      {"id": "$light_1x2_00", "x": 16, "y": -8, "frame": 3},
+      {"id": "$light_1x2_00", "x": 22, "y": -11, "frame": 3},
+      {"id": "$light_1x2_00", "x": 22, "y": -7, "frame": 3},
+      {"id": "$light_1x2_00", "x": 22, "y": -3, "frame": 3},
+      {"id": "$light_1x2_00", "x": 16, "y": -4, "frame": 3},
+      {"id": "$light_1x2_00", "x": 16, "y": 0, "frame": 3}
+    ]
+  },
+  {
+    "id":"$res19",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 17, "y": -1},
+      {"id": "$light_1x2_00", "x": 21, "y": -3},
+      {"id": "$light_1x2_00", "x": 25, "y": -5},
+      {"id": "$light_1x2_00", "x": 25, "y": -11},
+      {"id": "$light_1x2_00", "x": 21, "y": -9},
+      {"id": "$light_1x2_00", "x": 17, "y": -7}
+    ]
+  },
+  {
+    "id":"$res20",
+    "type":"residential",
+    "inherit": true,
+    "animation":[
+      {"id": "$light_1x2_00", "x": 8, "y": -8},
+      {"id": "$light_1x1_00", "x": 24, "y": -1},
+      {"id": "$light_1x1_00", "x": 24, "y": -5},
+      {"id": "$light_1x2_00", "x": 12, "y": -2},
+      {"id": "$light_1x2_00", "x": 16, "y": 0},
+      {"id": "$light_1x2_00", "x": 16, "y": -4},
+      {"id": "$light_1x2_00", "x": 12, "y": -6}
+    ]
+  }
+]
