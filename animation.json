@@ -88,5 +88,41 @@
     ],
     "light": true,
     "light switching": true
+  },
+  {
+    "id": "$light_unique_01_00",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_01_00.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_unique_01_01",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_01_01.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_unique_01_02",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_01_02.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_unique_01_03",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_01_03.png"}
+    ],
+    "light": true,
+    "light switching": true
   }
 ]
