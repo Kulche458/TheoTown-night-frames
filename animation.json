@@ -27,6 +27,15 @@
     "light switching": true
   },
   {
+    "id": "$light_1x4_00",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_1x4_00.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
     "id": "$light_2x2_00",
     "type": "animation",
     "frames": [
@@ -49,6 +58,60 @@
     "type": "animation",
     "frames": [
       {"bmp": "light_2x2_02.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x3_00",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x3_00.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x3_01",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x3_01.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x3_02",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x3_02.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x4_00",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x4_00.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x4_01",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x4_01.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x4_02",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x4_02.png"}
     ],
     "light": true,
     "light switching": true
