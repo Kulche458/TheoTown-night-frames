@@ -117,6 +117,33 @@
     "light switching": true
   },
   {
+    "id": "$light_2x5_00",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x5_00.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x5_01",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x5_01.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_2x5_02",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_2x5_02.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
     "id": "$light_unique_00_00",
     "type": "animation",
     "frames": [
