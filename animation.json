@@ -214,5 +214,41 @@
     ],
     "light": true,
     "light switching": true
+  },
+  {
+    "id": "$light_unique_02_00",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_02_00.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_unique_02_01",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_02_01.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_unique_02_02",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_02_02.png"}
+    ],
+    "light": true,
+    "light switching": true
+  },
+  {
+    "id": "$light_unique_02_03",
+    "type": "animation",
+    "frames": [
+      {"bmp": "light_unique_02_03.png"}
+    ],
+    "light": true,
+    "light switching": true
   }
 ]
